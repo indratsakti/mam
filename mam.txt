@@ -3,4 +3,4 @@ cepat
 aman
 mudah
 akses
-mobile
+tambah fitur
